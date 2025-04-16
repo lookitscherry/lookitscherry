@@ -1,3 +1,4 @@
-<div>
-  <img width=350px src="https://raw.githubusercontent.com/lookitscherry/lookitscherry/refs/heads/main/uwu.jpeg">
-</div>
+# Hello there! 👋
+I am Cherry, my actual name is jonathan.
+Im 15, borned in japan, tokyo!
+## What I create 

@@ -10,3 +10,7 @@ Trying to learn C# as currently. Hope me luck on that.
 **Email:** jonathanfied1.0@gmail.com
 
 **Discord:** lookitscherry
+## Working on?
+Working on an Roblox script, as currently named **"Noval"**
+
+This script is specifically for an skywars game. I havent created an script for one of those so, why not give it an try.

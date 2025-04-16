@@ -8,4 +8,5 @@ I create Roblox scripts, only knowing lua/luau for only half a month, im pretty 
 Trying to learn C# as currently. Hope me luck on that.
 ## Contacts
 **Email:** jonathanfied1.0@gmail.com
+
 **Discord:** lookitscherry

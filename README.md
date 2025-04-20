@@ -7,6 +7,6 @@
 <img src="https://img.shields.io/badge/lua-36%25-%2366D9EF?logo=lua&logoColor=F8F8F2&labelColor=272822" alt="Lua" height="40">
 <img src="https://img.shields.io/badge/html-23%25-%2366D9EF?logo=html5&logoColor=F8F8F2&labelColor=272822" alt="HTML" height="40">
 <img src="https://img.shields.io/badge/css-6%25-%2366D9EF?logo=css3&logoColor=F8F8F2&labelColor=272822" alt="CSS" height="40">
-<img src="https://img.shields.io/badge/javascript-6%25-%2366D9EF?logo=javascript&logoColor=F8F8F2&labelColor=272822" alt="JavaScript" height="40">
+<img src="https://img.shields.io/badge/javascript-25%25-%2366D9EF?logo=javascript&logoColor=F8F8F2&labelColor=272822" alt="JavaScript" height="40">
 
 </div>
